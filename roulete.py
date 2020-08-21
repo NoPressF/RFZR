@@ -67,7 +67,7 @@ def selcho ():
           # Countdown
           start()
           # Result
-          select + print(zombie)()
+          select()
           sys.exit()
     if category == "6": 
           print(entername)
