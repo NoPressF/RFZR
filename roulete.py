@@ -1,4 +1,4 @@
-!/bin/bash
+
 import random
 import time
 import sys
@@ -37,7 +37,6 @@ def timestart():
     random.shuffle(listl)
 
 def selcho ():
-    cat README.md
     category = input("")
     if category == "5":
         print(entername)
